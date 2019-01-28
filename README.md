@@ -3,4 +3,5 @@ Script to extract the implied probabilities of all outcomes listed in the live b
 
 ## Requirements:
 Puppeteer https://github.com/GoogleChrome/puppeteer
+
 FS https://www.npmjs.com/package/fs-js
