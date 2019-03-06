@@ -9,4 +9,4 @@ Puppeteer https://github.com/GoogleChrome/puppeteer
 FS https://www.npmjs.com/package/fs-js
 
 ## Disclaimer:
-This is purely theoretical.  Read unibet's robots.txt file at https://www.unibet.com/?ot=com.atex.plugins.seoplugin.RobotsTxt.ot. You are personally responsible for scraping ethically and complying with local regulations.
+This is purely theoretical. You are personally responsible for scraping ethically and complying with local regulations. Read unibet's robots.txt file at https://www.unibet.com/?ot=com.atex.plugins.seoplugin.RobotsTxt.ot.
